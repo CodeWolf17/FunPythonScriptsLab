@@ -12,8 +12,8 @@ A simple Python script that helps you compress large files into smaller sizes. P
 - **FilesCompressor/compressor.py**: Main script to compress files.
 - **FilesCompressor/compressorextra.py**: Additional functions for the compression process.
 
-### 2. **YouTube Downloader** 🎥
-A YouTube video downloader that allows you to download videos directly from YouTube in multiple formats. Never lose a video you love!
+### 2. **YouTube Playlist & Video Downloader** 🎥
+A YouTube video downloader that allows you to download playlists and videos directly from YouTube in multiple formats. Never lose a video you love!
 
 - **YoutubeDownloader/ydown.py**: Main script to download YouTube videos.
 - **YoutubeDownloader/ydownextra.py**: Extra features for video downloading.
@@ -43,12 +43,15 @@ python FilesCompressor/compressorextra.py
 ```
 
 Usage Instructions
+
 Each script includes inline comments and documentation on how to use it. Make sure to check out the comments and follow the instructions provided in the script for optimal use.
 
 Contributing 🤝
+
 If you want to contribute or add your own fun scripts to the repository, feel free to fork the repo and create a pull request. I'd love to see what you create!
 
 License 📜
+
 This project is open source and available under the MIT License.
 
 Thanks for visiting my Fun Python Script Lab! Enjoy exploring the scripts! 😄
