@@ -43,12 +43,15 @@ python FilesCompressor/compressorextra.py
 ```
 
 Usage Instructions
+
 Each script includes inline comments and documentation on how to use it. Make sure to check out the comments and follow the instructions provided in the script for optimal use.
 
 Contributing 🤝
+
 If you want to contribute or add your own fun scripts to the repository, feel free to fork the repo and create a pull request. I'd love to see what you create!
 
 License 📜
+
 This project is open source and available under the MIT License.
 
 Thanks for visiting my Fun Python Script Lab! Enjoy exploring the scripts! 😄
